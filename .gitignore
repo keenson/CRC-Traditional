@@ -7,6 +7,7 @@ instance/*
 .webassets-cache
 .env
 visitors.db
+.flaskenv
 
 ### Flask.Python Stack ###
 # Byte-compiled / optimized / DLL files
